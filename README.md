@@ -1,6 +1,6 @@
 # Postgraduate_Group_Meeting_PPT
 
-**time span**: 2023.9.13-<br />
-**location**: Southeast University, Nanjing, Jiangsu, China<br />
-**occasion**: Group meetings during postgraduate studies<br />
-**access method**: Windows PowerPoint<br />
+**Time Span**: 2023.9.13-<br />
+**Location**: Southeast University, Nanjing, Jiangsu, China<br />
+**Occasion**: Group meetings during postgraduate studies<br />
+**Access Method**: Windows PowerPoint<br />
