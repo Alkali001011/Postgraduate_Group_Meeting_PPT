@@ -3,4 +3,4 @@
 **Time Span**: 2023.9.13-2026.6.4<br />
 **Location**: Southeast University, Nanjing, Jiangsu, China<br />
 **Occasion**: Group meetings during postgraduate studies<br />
-**Access Method**: Windows PowerPoint<br />
+**Access Method**: Microsoft PowerPoint<br />
